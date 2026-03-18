@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI DDR Report Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600 ;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-orbs"></div>
+    
+    <main class="container">
+        <header>
+            <div class="badge">AI-Powered Workflow</div>
+            <h1>Generate <span>DDR Reports</span> in Seconds.</h1>
+            <p>Upload your inspection and thermal reports. Our AI analyzes the data and generates a professional, color-coded diagnostic PDF.</p>
+        </header>
+
+        <section class="upload-section glass-panel">
+            <form id="uploadForm">
+                <div class="file-inputs">
+                    <div class="drop-zone" id="sampleDropZone">
+                        <input type="file" id="sampleReport" accept=".pdf" required hidden>
+                        <label for="sampleReport">
+                            <div class="icon">📄</div>
+                            <h3>Sample Report</h3>
+                            <p>Drag & drop or <span>Click to browse</span></p>
+                            <span class="file-name" id="sampleName">No file selected</span>
+                        </label>
+                    </div>
+
+                    <div class="drop-zone" id="thermalDropZone">
+                        <input type="file" id="thermalReport" accept=".pdf" required hidden>
+                        <label for="thermalReport">
+                            <div class="icon">🌡️</div>
+                            <h3>Thermal Images</h3>
+                            <p>Drag & drop or <span>Click to browse</span></p>
+                            <span class="file-name" id="thermalName">No file selected</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <button type="submit" id="generateBtn" class="primary-btn">
+                    <span>Generate Report</span>
+                    <div class="loader hidden" id="btnLoader"></div>
+                </button>
+            </form>
+
+            <div id="statusArea" class="status-area hidden">
+                <div class="progress-bar">
+                    <div class="progress-fill"></div>
+                </div>
+                <p id="statusText">Analyzing with Gemini 2.5 Flash...</p>
+                <p class="status-subtext">This process typically takes 30-60 seconds.</p>
+            </div>
+
+            <div id="resultArea" class="result-area hidden">
+                <div class="success-icon">✓</div>
+                <h3>Report Generated Successfully!</h3>
+                <div class="action-buttons">
+                    <a id="downloadPdf" href="#" class="btn btn-pdf" download>Download PDF</a>
+                    <a id="downloadJson" href="#" class="btn btn-json" download>Download JSON</a>
+                </div>
+                <button id="resetBtn" class="btn btn-ghost">Generate New Report</button>
+            </div>
+            
+            <div id="errorArea" class="error-area hidden">
+                <div class="error-icon">⚠️</div>
+                <h3 id="errorText">Generation Failed</h3>
+                <button id="retryBtn" class="btn btn-ghost">Try Again</button>
+            </div>
+        </section>
+        
+        <footer>
+            Built with ⚡️ FastAPI • FPDF2 • Gemini 2.5 Flash
+        </footer>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,504 @@
+{
+    "Table_of_Contents": [
+        "1. Inspection Form",
+        "2. Checklists / Inspection Checklists",
+        "3. Impacted Areas/Rooms",
+        "4. Inspection Checklists",
+        "5. SUMMARY TABLE",
+        "6. Appendix"
+    ],
+    "Introduction": {
+        "Background": "This Detailed Diagnostic Report is prepared for the inspection of a residential flat.",
+        "Objective": "To identify sources of leakage, dampness, and structural defects, and provide a comprehensive report on the overall condition of the property.",
+        "Scope_of_Work": "Inspection of Hall, Bedroom, Kitchen, Master Bedroom, Parking Area, Common bathroom, WC, and External Wall including RCC members, plaster, paint adhesion, and plumbing.",
+        "Tools_Used": "GTC 400 C Professional Thermal Camera, Moisture Meter, Visual Inspection"
+    },
+    "Metadata": {
+        "Report_ID": "Not Available",
+        "Site_Address": "Not Available",
+        "Type_of_Structure": "Residential Building",
+        "Property_Type": "Flat",
+        "Floors": "11",
+        "Year_of_Construction": "Not Available",
+        "Age_Building_years": "Not Available",
+        "Inspection_Date": "27.09.2022",
+        "Inspector_Names": "Krushna & Mahesh",
+        "Customer_Name": "Not Available",
+        "Customer_Mobile": "Not Available",
+        "Customer_Email": "Not Available"
+    },
+    "Summary": {
+        "Checklists_Flagged": "1 out of 2 flagged",
+        "Score_Percentage": "85.71%",
+        "Condition_Stats": [
+            {
+                "Label": "Good",
+                "Value": "0"
+            },
+            {
+                "Label": "Moderate",
+                "Value": "4"
+            },
+            {
+                "Label": "Poor",
+                "Value": "0"
+            },
+            {
+                "Label": "Yes",
+                "Value": "7"
+            },
+            {
+                "Label": "No",
+                "Value": "1"
+            },
+            {
+                "Label": "N/A",
+                "Value": "19"
+            },
+            {
+                "Label": "Not sure",
+                "Value": "1"
+            }
+        ]
+    },
+    "Impacted_Areas": [
+        {
+            "Area": "Hall, Common Bathroom",
+            "Negative_Side_Inputs": "Hall Skirting level Dampness",
+            "Positive_Side_Inputs": "Common Bathroom tile hollowness",
+            "Normal_Images": [
+                "sample_page3_img1.png",
+                "sample_page3_img2.jpeg",
+                "sample_page3_img3.jpeg",
+                "sample_page3_img4.jpeg",
+                "sample_page3_img5.jpeg",
+                "sample_page3_img6.jpeg",
+                "sample_page3_img7.jpeg",
+                "sample_page3_img8.jpeg",
+                "sample_page3_img9.jpeg",
+                "sample_page3_img10.jpeg",
+                "sample_page3_img11.jpeg",
+                "sample_page3_img12.jpeg",
+                "sample_page3_img13.jpeg",
+                "sample_page3_img14.jpeg",
+                "sample_page3_img15.jpeg"
+            ],
+            "Thermal_Images": []
+        },
+        {
+            "Area": "Bedroom, Common Bathroom",
+            "Negative_Side_Inputs": "Bedroom Skirting level Dampness",
+            "Positive_Side_Inputs": "Common Bathroom tile hollowness",
+            "Normal_Images": [
+                "sample_page3_img1.png",
+                "sample_page3_img2.jpeg",
+                "sample_page3_img3.jpeg",
+                "sample_page3_img4.jpeg",
+                "sample_page3_img5.jpeg",
+                "sample_page3_img6.jpeg",
+                "sample_page3_img7.jpeg",
+                "sample_page3_img8.jpeg",
+                "sample_page3_img9.jpeg",
+                "sample_page3_img10.jpeg",
+                "sample_page3_img11.jpeg",
+                "sample_page3_img12.jpeg",
+                "sample_page3_img13.jpeg",
+                "sample_page3_img14.jpeg",
+                "sample_page3_img15.jpeg",
+                "sample_page4_img1.png",
+                "sample_page4_img2.jpeg",
+                "sample_page4_img3.jpeg",
+                "sample_page4_img4.jpeg",
+                "sample_page4_img5.jpeg",
+                "sample_page4_img6.jpeg",
+                "sample_page4_img7.jpeg",
+                "sample_page4_img8.jpeg",
+                "sample_page4_img9.jpeg",
+                "sample_page4_img10.jpeg",
+                "sample_page4_img11.jpeg",
+                "sample_page4_img12.jpeg",
+                "sample_page4_img13.jpeg",
+                "sample_page4_img14.jpeg",
+                "sample_page4_img15.jpeg",
+                "sample_page4_img16.jpeg",
+                "sample_page4_img17.jpeg",
+                "sample_page4_img18.jpeg",
+                "sample_page4_img19.jpeg"
+            ],
+            "Thermal_Images": []
+        },
+        {
+            "Area": "Master Bedroom, MB Bathroom",
+            "Negative_Side_Inputs": "Master bedroom Skirting level Dampness",
+            "Positive_Side_Inputs": "MB Bathroom tile hollowness",
+            "Normal_Images": [
+                "sample_page4_img1.png",
+                "sample_page4_img2.jpeg",
+                "sample_page4_img3.jpeg",
+                "sample_page4_img4.jpeg",
+                "sample_page4_img5.jpeg",
+                "sample_page4_img6.jpeg",
+                "sample_page4_img7.jpeg",
+                "sample_page4_img8.jpeg",
+                "sample_page4_img9.jpeg",
+                "sample_page4_img10.jpeg",
+                "sample_page4_img11.jpeg",
+                "sample_page4_img12.jpeg",
+                "sample_page4_img13.jpeg",
+                "sample_page4_img14.jpeg",
+                "sample_page4_img15.jpeg",
+                "sample_page4_img16.jpeg",
+                "sample_page4_img17.jpeg",
+                "sample_page4_img18.jpeg",
+                "sample_page4_img19.jpeg"
+            ],
+            "Thermal_Images": []
+        },
+        {
+            "Area": "Kitchen, Master bedroom bathroom",
+            "Negative_Side_Inputs": "Kitchen Skirting level Dampness",
+            "Positive_Side_Inputs": "Master bedroom bathroom",
+            "Normal_Images": [
+                "sample_page4_img1.png",
+                "sample_page4_img2.jpeg",
+                "sample_page4_img3.jpeg",
+                "sample_page4_img4.jpeg",
+                "sample_page4_img5.jpeg",
+                "sample_page4_img6.jpeg",
+                "sample_page4_img7.jpeg",
+                "sample_page4_img8.jpeg",
+                "sample_page4_img9.jpeg",
+                "sample_page4_img10.jpeg",
+                "sample_page4_img11.jpeg",
+                "sample_page4_img12.jpeg",
+                "sample_page4_img13.jpeg",
+                "sample_page4_img14.jpeg",
+                "sample_page4_img15.jpeg",
+                "sample_page4_img16.jpeg",
+                "sample_page4_img17.jpeg",
+                "sample_page4_img18.jpeg",
+                "sample_page4_img19.jpeg",
+                "sample_page5_img1.png",
+                "sample_page5_img2.jpeg",
+                "sample_page5_img3.jpeg",
+                "sample_page5_img4.jpeg",
+                "sample_page5_img5.jpeg",
+                "sample_page5_img6.jpeg",
+                "sample_page5_img7.jpeg",
+                "sample_page5_img8.jpeg",
+                "sample_page5_img9.jpeg",
+                "sample_page5_img10.jpeg",
+                "sample_page5_img11.jpeg",
+                "sample_page5_img12.jpeg",
+                "sample_page5_img13.jpeg",
+                "sample_page5_img14.jpeg",
+                "sample_page5_img15.jpeg",
+                "sample_page5_img16.jpeg",
+                "sample_page5_img17.jpeg"
+            ],
+            "Thermal_Images": []
+        },
+        {
+            "Area": "Master bedroom wall, External wall",
+            "Negative_Side_Inputs": "Master bedroom wall damness",
+            "Positive_Side_Inputs": "External wall crack and Duct Issue",
+            "Normal_Images": [
+                "sample_page5_img1.png",
+                "sample_page5_img2.jpeg",
+                "sample_page5_img3.jpeg",
+                "sample_page5_img4.jpeg",
+                "sample_page5_img5.jpeg",
+                "sample_page5_img6.jpeg",
+                "sample_page5_img7.jpeg",
+                "sample_page5_img8.jpeg",
+                "sample_page5_img9.jpeg",
+                "sample_page5_img10.jpeg",
+                "sample_page5_img11.jpeg",
+                "sample_page5_img12.jpeg",
+                "sample_page5_img13.jpeg",
+                "sample_page5_img14.jpeg",
+                "sample_page5_img15.jpeg",
+                "sample_page5_img16.jpeg",
+                "sample_page5_img17.jpeg"
+            ],
+            "Thermal_Images": []
+        },
+        {
+            "Area": "Parking Area, Common Bathroom",
+            "Negative_Side_Inputs": "Parking Area seepage",
+            "Positive_Side_Inputs": "Common Bathroom tile hollowness and plumbing issue",
+            "Normal_Images": [
+                "sample_page5_img1.png",
+                "sample_page5_img2.jpeg",
+                "sample_page5_img3.jpeg",
+                "sample_page5_img4.jpeg",
+                "sample_page5_img5.jpeg",
+                "sample_page5_img6.jpeg",
+                "sample_page5_img7.jpeg",
+                "sample_page5_img8.jpeg",
+                "sample_page5_img9.jpeg",
+                "sample_page5_img10.jpeg",
+                "sample_page5_img11.jpeg",
+                "sample_page5_img12.jpeg",
+                "sample_page5_img13.jpeg",
+                "sample_page5_img14.jpeg",
+                "sample_page5_img15.jpeg",
+                "sample_page5_img16.jpeg",
+                "sample_page5_img17.jpeg",
+                "sample_page6_img1.png",
+                "sample_page6_img2.jpeg",
+                "sample_page6_img3.jpeg",
+                "sample_page6_img4.jpeg",
+                "sample_page6_img5.jpeg",
+                "sample_page6_img6.jpeg",
+                "sample_page6_img7.jpeg",
+                "sample_page6_img8.jpeg",
+                "sample_page6_img9.jpeg",
+                "sample_page6_img10.jpeg",
+                "sample_page6_img11.jpeg",
+                "sample_page6_img12.jpeg",
+                "sample_page6_img13.jpeg",
+                "sample_page6_img14.jpeg",
+                "sample_page6_img15.jpeg",
+                "sample_page6_img16.jpeg",
+                "sample_page6_img17.jpeg"
+            ],
+            "Thermal_Images": []
+        },
+        {
+            "Area": "Common Bathroom Ceiling, Flat No 203",
+            "Negative_Side_Inputs": "Common Bathroom Ceiling Dampness",
+            "Positive_Side_Inputs": "Flat no 203 tile joint open and outlet Leakage",
+            "Normal_Images": [
+                "sample_page6_img1.png",
+                "sample_page6_img2.jpeg",
+                "sample_page6_img3.jpeg",
+                "sample_page6_img4.jpeg",
+                "sample_page6_img5.jpeg",
+                "sample_page6_img6.jpeg",
+                "sample_page6_img7.jpeg",
+                "sample_page6_img8.jpeg",
+                "sample_page6_img9.jpeg",
+                "sample_page6_img10.jpeg",
+                "sample_page6_img11.jpeg",
+                "sample_page6_img12.jpeg",
+                "sample_page6_img13.jpeg",
+                "sample_page6_img14.jpeg",
+                "sample_page6_img15.jpeg",
+                "sample_page6_img16.jpeg",
+                "sample_page6_img17.jpeg"
+            ],
+            "Thermal_Images": []
+        }
+    ],
+    "Checklists": [
+        {
+            "Category_Name": "WC",
+            "Score_Percentage": "16.67%",
+            "Items": [
+                {
+                    "Question": "Condition of leakage at adjacent walls",
+                    "Value": "Not Available"
+                },
+                {
+                    "Question": "Condition of leakage below WC",
+                    "Value": "Not Available"
+                },
+                {
+                    "Question": "Leakage during:",
+                    "Value": "All time"
+                },
+                {
+                    "Question": "Leakage due to concealed plumbing",
+                    "Value": "Yes"
+                },
+                {
+                    "Question": "Leakage due to damage in Nahani trap/Brickbat coba under tile flooring",
+                    "Value": "Yes"
+                },
+                {
+                    "Question": "Gaps/Blackish dirt Observed in tile joints",
+                    "Value": "Yes"
+                },
+                {
+                    "Question": "Gaps around Nahani Trap Joints",
+                    "Value": "Yes"
+                },
+                {
+                    "Question": "Tiles Broken/Loosed anywhere",
+                    "Value": "No"
+                },
+                {
+                    "Question": "Loose Plumbing joints/rust around joints and edges (Flush Tank/shower/angle cock/bibcock, washbasin, etc)",
+                    "Value": "Yes"
+                },
+                {
+                    "Question": "Type of tile",
+                    "Value": "Not Available"
+                }
+            ]
+        },
+        {
+            "Category_Name": "External Wall",
+            "Score_Percentage": "0%",
+            "Items": [
+                {
+                    "Question": "Condition of leakage at interior side",
+                    "Value": "Not Available"
+                },
+                {
+                    "Question": "Leakage during:",
+                    "Value": "All time"
+                },
+                {
+                    "Question": "Leakage due to concealed plumbing",
+                    "Value": "Yes"
+                },
+                {
+                    "Question": "Internal WC/Bath/Balcony leakage observed",
+                    "Value": "Yes"
+                },
+                {
+                    "Question": "Existing type of paint and manufacturer",
+                    "Value": "Not sure"
+                },
+                {
+                    "Question": "Condition of cracks observed on RCC Column and Beam",
+                    "Value": "Moderate"
+                },
+                {
+                    "Question": "Condition of rust marks observed in RCC Beam and Column",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Condition of corrosion/spalling of concrete/exposed reinforcement observed in column/beams/roof slab ceiling",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Expansion joints condition if any",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Are there any major or minor cracks observed over external surface?",
+                    "Value": "Moderate"
+                },
+                {
+                    "Question": "Are the sealants applied on the window frame joints intact?",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Condition of wall mounted AC Frames, holes, drain pipes over the wall.",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Are the external plumbing pipes cracked and leaked? If yes its condition.",
+                    "Value": "Moderate"
+                },
+                {
+                    "Question": "Are the openings around the pipes in external wall properly grouted? If not its condition.",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Condition of any vegetation growth, dish antennas fixed on parapet wall observed?",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Chalking and flaking in paint film.",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Algae fungus and Moss observed on external wall?",
+                    "Value": "Moderate"
+                },
+                {
+                    "Question": "Bird droppings condition observed on external wall and Chajja",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Condition of corrosion on metal rods and MS window grills",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Patchwork plaster required? if yes its condition?",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Entire replaster required? if yes its condition?",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Condition of separation cracks observed at beam-column junction",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Condition of leakage observed from overhead water tank",
+                    "Value": "N/A"
+                },
+                {
+                    "Question": "Loose plaster/hollow sond on external surfaces?if observed,",
+                    "Value": "N/A"
+                }
+            ]
+        }
+    ],
+    "Final_Summary_Table": [
+        {
+            "Impacted_Area": "Hall of Flat No. 103",
+            "Observed_Issue": "Observed dampness at the skirting level of Hall.",
+            "Probable_Cause": "Gaps between the tile joints and hollowness in the Common Bathroom of Flat No. 103, leading to water seepage.",
+            "Severity": "Medium",
+            "Suggested_Remedy": "Epoxy injection grouting of Common Bathroom tile joints and re-grouting of Nahani trap joints in Common Bathroom."
+        },
+        {
+            "Impacted_Area": "Common Bedroom of Flat No. 103",
+            "Observed_Issue": "Observed dampness at the skirting level of the Common Bedroom.",
+            "Probable_Cause": "Gaps between the tile joints and hollowness in the Common Bathroom of Flat No. 103, leading to water seepage.",
+            "Severity": "Medium",
+            "Suggested_Remedy": "Epoxy injection grouting of Common Bathroom tile joints and re-grouting of Nahani trap joints in Common Bathroom."
+        },
+        {
+            "Impacted_Area": "Master Bedroom of Flat No. 103",
+            "Observed_Issue": "Observed dampness at the skirting level of Master Bedroom.",
+            "Probable_Cause": "Gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103, allowing water ingress.",
+            "Severity": "Medium",
+            "Suggested_Remedy": "Epoxy injection grouting of Master Bedroom Bathroom tile joints."
+        },
+        {
+            "Impacted_Area": "Kitchen of Flat No. 103",
+            "Observed_Issue": "Observed dampness at the skirting level of Kitchen.",
+            "Probable_Cause": "Gaps between the tile joints of Master Bedroom Bathroom of Flat No. 103, allowing water ingress.",
+            "Severity": "Medium",
+            "Suggested_Remedy": "Epoxy injection grouting of Master Bedroom Bathroom tile joints."
+        },
+        {
+            "Impacted_Area": "Master Bedroom of Flat No. 103 (Wall surface)",
+            "Observed_Issue": "Observed dampness & efflorescence on the wall surface of Master Bedroom.",
+            "Probable_Cause": "Cracks on the External wall of the building near Master Bedroom of Flat No. 103.",
+            "Severity": "Medium",
+            "Suggested_Remedy": "Repair and seal cracks on the external wall using appropriate waterproofing sealant. Address any duct issues identified."
+        },
+        {
+            "Impacted_Area": "Parking ceiling below Flat No. 103",
+            "Observed_Issue": "Observed leakage at the Parking ceiling below Flat No. 103.",
+            "Probable_Cause": "Plumbing issue and gaps between the tile joints of Common Bathroom of Flat No. 103, causing active water seepage.",
+            "Severity": "High",
+            "Suggested_Remedy": "Concealed plumbing leak detection and repair in Common Bathroom. Epoxy injection grouting for all tile joints in Common Bathroom. Assess for waterproofing membrane re-application."
+        },
+        {
+            "Impacted_Area": "Common Bathroom Ceiling of Flat No. 103",
+            "Observed_Issue": "Observed mild dampness at the ceiling of Common Bathroom.",
+            "Probable_Cause": "Gaps between tile joints of Common & Master Bedroom Bathrooms of Flat No. 203 (upper floor) and outlet leakage from Flat No. 203.",
+            "Severity": "High",
+            "Suggested_Remedy": "Contact the resident of Flat No. 203 to inspect and repair tile joint gaps and outlet leakage in their Common and Master Bedroom Bathrooms. Repair and re-paint the ceiling of the Common Bathroom in Flat No. 103 after source repair."
+        }
+    ],
+    "Overall_Recommendations": [
+        "Address all identified tile joint gaps and hollowness in Common Bathroom and Master Bedroom Bathroom of Flat No. 103 immediately with epoxy injection grouting to prevent further seepage.",
+        "Investigate and repair concealed plumbing issues in Common Bathroom of Flat No. 103 to stop active leakage impacting the parking area below.",
+        "Implement external wall crack repair using polyurethane sealants for the cracks observed near the Master Bedroom of Flat No. 103 to prevent water ingress and dampness.",
+        "Coordinate with the resident of Flat No. 203 to facilitate necessary repairs to tile joints and plumbing outlets in their bathrooms, as they are a probable cause for dampness in the Common Bathroom ceiling of Flat No. 103.",
+        "Monitor affected skirting and wall areas after primary repairs for any recurring dampness and address any underlying issues promptly.",
+        "Consider a comprehensive waterproofing assessment for wet areas if the current issues are extensive or recurrent, to ensure long-term protection."
+    ],
+    "Limitation_and_Precaution": "Not Available"
+}
