@@ -1,6 +1,7 @@
 # AI-Powered PDF Report Generation Workflow
 
 This project is an automated AI pipeline designed to ingest complex inspection and thermal PDF reports and synthesize a professional, structured **Detailed Diagnostic Report (DDR)**.
+Video Link: https://www.loom.com/share/fd7af0c5083e478ebb8da5c8e2b03f05
 
 ## 🚀 Overview
 The workflow extracts text and images from multiple sources, processes them through a high-reasoning LLM (Google Gemini 2.5 Flash), and generates a client-ready PDF with:
